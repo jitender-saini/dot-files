@@ -1,0 +1,7 @@
+[user]
+	name = Jay Saini
+	email = jsaini.coder@gmail.com
+[core]
+	editor = vi
+[init]
+	defaultBranch = main
